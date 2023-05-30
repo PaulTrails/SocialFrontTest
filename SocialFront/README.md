@@ -1,10 +1,10 @@
-# ByteWalk
+# SocialFront
 A social media photo sharing website built on [Django Framework](https://djangoproject.com/).
 
 The features available to users :-
 1) Post images.  A short description and tags can be included if desired by user.
-2) can check everyone's post and also like and comment on the photos.
-3) Users can edit or delete their photos too.
+2) Check posts and also like and comment on photos.
+3) Users can edit or delete their photos.
 4) Users can search for posts by tags and for other users by their username.
 5) Without authentication, users can view the posts but cannot like or comment.
 6) Registeration system is complete with password reset option also available to users.
